@@ -1,0 +1,7 @@
+﻿  Odev3.cpp
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(14,20): warning C4018:  '<': imzalı/imzasız uyuşmazlığı
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(161,19): warning C4244:  'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(162,18): warning C4244:  'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(175,28): warning C4244:  '*=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(176,28): warning C4244:  '*=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Odev3.vcxproj -> C:\Users\burak\source\repos\Odev3\Debug\Odev3.exe

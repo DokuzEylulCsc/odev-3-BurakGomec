@@ -1,0 +1,7 @@
+﻿  Odev3.cpp
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(40,19): warning C4244:  'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(53,18): warning C4244:  'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(64,28): warning C4244:  '*=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(65,28): warning C4244:  '*=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\burak\source\repos\Odev3\Odev3\Odev3.cpp(79,29): warning C4244:  '=': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Odev3.vcxproj -> C:\Users\burak\source\repos\Odev3\x64\Debug\Odev3.exe

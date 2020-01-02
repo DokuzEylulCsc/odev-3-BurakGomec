@@ -1,0 +1,7 @@
+N2016280019,10
+N2016283232,80
+En dusuk not=10
+En yuksek not=80
+Ortalama=45
+Aciklik=70
+Medyan=45
